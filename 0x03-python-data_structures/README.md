@@ -1,6 +1,6 @@
-#Project Repo:alx-higher_level_programming
+# Project Repo:alx-higher_level_programming
 
-#Project 0x03-python-data_structures
+# Project 0x03-python-data_structures
 
 # Project Tasks
 
